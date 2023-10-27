@@ -25,3 +25,7 @@ dpkg --install webmin_1.910_all.deb
 ```
 apt -f install 
 ```
+
+###
+
+com um usuário com acesso root
