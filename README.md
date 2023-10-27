@@ -4,6 +4,14 @@ sistema de controle para servidores
 
 ### install 
 ```
+git clone https://github.com/MTplusWebSystem/WebMin
+```
+
+```
+cd WebMin
+```
+
+```
 apt update -y
 ```
 ```
