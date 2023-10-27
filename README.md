@@ -28,4 +28,4 @@ apt -f install
 
 ###
 
-com um usuário com acesso root
+logar usando um usuário com acesso root
